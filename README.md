@@ -12,7 +12,12 @@
 https://maryam-rfm.streamlit.app
 
 ### اسکرین‌شات واقعی از داشبورد
-![Dashboard Preview](https://i.imgur.com/0rK8X5j.png)
+
+<img width="1269" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/202c0a82-b3fe-4581-9d88-4ba16e09db9d" />
+
+<img width="1269" height="500" alt="newplot (2)" src="https://github.com/user-attachments/assets/29adec14-0208-4dfc-a07d-0465757c8bd4" />
+
+<img width="1269" height="450" alt="newplot (5)" src="https://github.com/user-attachments/assets/495966dd-75f6-453a-b4df-1209ecc3ad60" />
 
 ### ویژگی‌های کلیدی
 - آپلود مستقیم فایل CSV (تا 200MB)
