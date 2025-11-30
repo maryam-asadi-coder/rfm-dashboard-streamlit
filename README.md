@@ -11,7 +11,7 @@
 ### لینک داشبورد زنده (همین الان باز کن!)
 https://maryam-rfm.streamlit.app
 
-### اسکرین‌شات واقعی از داشبورد
+### اسکرین‌شات از داشبورد
 
 <img width="1269" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/202c0a82-b3fe-4581-9d88-4ba16e09db9d" />
 
